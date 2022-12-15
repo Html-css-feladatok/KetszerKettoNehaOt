@@ -1,0 +1,29 @@
+#fokep{
+    background-image: url(kepek/logo.png);
+}
+
+a{
+    color:#000;
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgb(34, 109, 34);
+}
+
+.nav-link{
+    font-size: 22px;
+    color: #000;
+}
+
+.nav-link:hover{
+    color: rgb(34, 109, 34);
+}
+
+#logo img{
+    float: left;
+}
+#logo p{
+    float: left;
+    font-size: 24px;
+    margin-top: 20px;
