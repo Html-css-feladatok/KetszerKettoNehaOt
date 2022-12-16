@@ -1,5 +1,22 @@
-#fokep{
-    background-image: url(kepek/logo.png);
+/* #fokep{
+    background-image:url(kepek/jumbotron1112.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+     */
+ /* } */
+ #fokep{
+    height: 500px;
+    width: 1500px;
+    display: block;
+    margin: 0 auto;
+    
+}
+#logok{
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    ;
 }
 
 a{
