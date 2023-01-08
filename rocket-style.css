@@ -1,6 +1,13 @@
 body{
     font-size: 22px;
-    background-color: rgb(101, 233, 233);
+    background-image: url("kepek/indexbg2.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    color: white;
 }
 
 .nav-link{
@@ -19,7 +26,7 @@ body{
 }
 
 table{
-    border: 3px solid black;
+    border: 3px solid rgb(83, 83, 203);
     font-size: 25px;
     margin: 0 auto;
 }
