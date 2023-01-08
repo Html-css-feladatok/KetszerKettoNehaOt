@@ -2,6 +2,22 @@ body{
     font-size: 22px;
     background-color: rgb(101, 233, 233);
 }
+
+.nav-link{
+    font-size: 22px;
+    color: #000;
+}
+
+#esportcim{
+    font-weight: bold;
+    font-size: 25px;
+}
+
+#nav{
+    padding-right: 10vw;
+    padding-left: 10vw;
+}
+
 table{
     border: 3px solid black;
     font-size: 25px;
@@ -18,3 +34,4 @@ h3{
     margin-top: 10px;
     margin-bottom: 10px;
 }
+
