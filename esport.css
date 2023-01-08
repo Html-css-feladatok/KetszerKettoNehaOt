@@ -1,31 +1,15 @@
-/* #fokep{
-    background-image:url(kepek/jumbotron1112.jpg);
-    background-repeat: no-repeat;
-    background-size:cover;
+
+#fokep{
+    margin-top: 5px;
+}
+
+body{
+    background-image: url("kepek/indexbg2.webp");
     background-position: center;
-     */
- /* } */
- #fokep{
-    height: 500px;
-    width: 1500px;
-    display: block;
-    margin: 0 auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
     
-}
-#logok{
-    text-align: center;
-    display: block;
-    margin: 0 auto;
-    ;
-}
-
-a{
-    color:#000;
-    text-decoration: none;
-}
-
-a:hover{
-    color: rgb(34, 109, 34);
 }
 
 .nav-link{
@@ -33,14 +17,163 @@ a:hover{
     color: #000;
 }
 
-.nav-link:hover{
-    color: rgb(34, 109, 34);
+#esportcim{
+    font-weight: bold;
+    font-size: 25px;
+}
+#hirekfels{
+    padding-right: 0;
+    margin-right: 0;
+    background-color: rgb(51, 51, 51);  
 }
 
-#logo img{
+#hirekfels a{
+    color: white;
+    text-decoration: none;
+    text-transform: lowercase;
+    font-size: 13px;
+    padding-right: 40px;
+}
+
+#hirekfels img{
+    height: 15px;
+    width: 15px;
+}
+
+#navalatt{
+    margin-top: 5px;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    word-spacing: 5px;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+#nav{
+    padding-right: 10vw;
+    padding-left: 10vw;
+}
+
+#kepek{
+    height: 600px;
+    background-position: center;
+    background-size: cover;
+}
+
+table{
+    margin: 0 auto;
+    margin-top: 30px;
+    
+}
+
+#indextable{
+    margin-top: 50px;
+}
+
+#indextable img{
+    height: 500px;
+    
+}
+
+.koz{
+    width: 35px;
+}
+
+#csgocim{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 60px;
+}
+
+.teamslogo img{
+    height: 45px;
+    width: 48px;
+}
+
+.heroic img{
+    height: 45px;
+    width: 68px;
+}
+
+table img{
+    display: block;
+    margin: 0 auto;
+}
+
+#csgoteams{
+    border: 1px solid black;
+    height: 180px;
+    width: 500px;
+    margin: auto 0;
+    word-spacing: 4px;
+    float: left;
+    margin-bottom: 200px;
+    
+}
+
+#csgoteams th{
+    font-size: 20px;
+}
+
+#csgoteams tr{
+    border: 1px solid black;
+}
+
+#csgoteams p{
+    font-weight: bold;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+
+.ures{
+    width: 3px;
+}
+
+h1{
+    padding-top: 20px;
+}
+
+#tablazatok{
     float: left;
 }
-#logo p{
+
+.sorszam{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.hirekkepek{
+    height: 160px;
+    margin-top: 5px;
+}
+
+#hirekh1{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+
+#demo img{
+    background-position: center;
+    background-size: cover;
+}
+
+#csgokepek{
+     margin-top: 0;
+    padding-top: 0;
+}
+
+#csgokepek img{
+    width: 400px;
+    height: 230px;
+    margin: auto 0;
     float: left;
-    font-size: 24px;
-    margin-top: 20px;
+   
+}
+
+.csgoleiras{
+    font-size: 17px;
+}
