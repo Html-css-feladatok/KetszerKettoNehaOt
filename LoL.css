@@ -68,6 +68,16 @@ hr{
   #nav{
     padding-right: 10vw;
     padding-left: 10vw;
+    
+  
+  
 }
 
-  
+.nav-link{
+  font-size: 22px;
+  color: #000;
+}
+#esportcim{
+  font-weight: bold;
+  font-size: 25px;
+}
