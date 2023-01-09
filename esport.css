@@ -177,3 +177,8 @@ h1{
 .csgoleiras{
     font-size: 17px;
 }
+
+#gomb{
+    text-decoration: none;
+    color: white;
+}
